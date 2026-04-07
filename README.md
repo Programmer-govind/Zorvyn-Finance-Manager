@@ -29,11 +29,12 @@ VIEWER   → viewer@zorvyn.com   / Viewer@123
 
 Use these credentials immediately with the API endpoints below. No manual setup required.
 
-**API Documentation:** http://localhost:8080/swagger-ui.html
-
-**H2 Console:**        http://localhost:8080/h2-console
 **Live API Documentation:** https://zorvyn-finance-manager-production.up.railway.app/swagger-ui/index.html
+
+**Live H2 Console:**        https://zorvyn-finance-manager-production.up.railway.app/h2-console
+
 **Local API Documentation:** http://localhost:8080/swagger-ui.html
+
 **Local H2 Console:**        http://localhost:8080/h2-console
 
 **Requirements:** Java 17+, Maven 3.6+
