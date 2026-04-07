@@ -174,7 +174,7 @@ be bundled into a general update.
 ```text
 URL:      http://localhost:8080/h2-console
 JDBC URL: jdbc:h2:mem:financedb
-Username: admin
+Username: Admin
 Password: Admin@Zorvyn
 ```
 
